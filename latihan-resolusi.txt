@@ -1,0 +1,4 @@
+latiahan resolusi
+-konsisten membuat webset
+-membuat platform
+-memuat forum diskusi
